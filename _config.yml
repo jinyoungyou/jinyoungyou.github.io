@@ -79,8 +79,10 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-user"></i> About
-    url: /about/
+  - title: <i class="iconside iconm-user"></i> Curriculum Vitae
+    url: /cv/
+#  - title: <i class="iconside iconm-user"></i> About
+#    url: /about/
   - title: <i class="iconside iconm-quill"></i> Blog
     url: /blog/
   - title: <i class="fa fa-tags"></i> Tags
