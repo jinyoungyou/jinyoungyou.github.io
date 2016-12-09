@@ -14,7 +14,7 @@ description:         Jinyoung You
 #baseurl: ""
 #urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-url: https://jinyoungyou.github.io/
+url: https://jinyoungyou.github.io
 baseurl: ""
 urlimg: https://jinyoungyou.github.io/images/
 markdown: kramdown
