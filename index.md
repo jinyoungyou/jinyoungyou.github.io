@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Main
+title: Home
 description: Blogging on ....
 published: true
 ---
